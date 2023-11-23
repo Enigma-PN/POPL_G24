@@ -5,8 +5,9 @@ Store the carrier image in the tests directory.
 Navigate into the folder CPP_Implementation and run the following commands to compile and run the code: 
 
 ```sh
-❯ g++ -std=c++17 -g -c -o build/SourceFileName.o src/SourceFileName.cpp
-❯ g++ -stf=c++17 -o LSB_Steganography build/*.o
+❯ g++ -std=c++17 -g -c -o build/main.o src/main.cpp
+❯ g++ -std=c++17 -g -c -o build/image.o src/image.cpp
+❯ g++ -std=c++17 -o LSB_Steganography build/*.o
 ❯ ./LSB_Steganography tests/<insert_filename>
 ```
 
