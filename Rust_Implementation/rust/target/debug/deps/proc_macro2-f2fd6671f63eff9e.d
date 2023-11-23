@@ -1,0 +1,10 @@
+E:\CS_BITS\3-1\Principles of Programming Language\Project_final\Rust_Implementation\rust\target\debug\deps\proc_macro2-f2fd6671f63eff9e.rmeta: C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\lib.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\strnom.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\fallback.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\wrapper.rs
+
+E:\CS_BITS\3-1\Principles of Programming Language\Project_final\Rust_Implementation\rust\target\debug\deps\libproc_macro2-f2fd6671f63eff9e.rlib: C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\lib.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\strnom.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\fallback.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\wrapper.rs
+
+E:\CS_BITS\3-1\Principles of Programming Language\Project_final\Rust_Implementation\rust\target\debug\deps\proc_macro2-f2fd6671f63eff9e.d: C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\lib.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\strnom.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\fallback.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\wrapper.rs
+
+C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\lib.rs:
+C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\strnom.rs:
+C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\fallback.rs:
+C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-0.4.30\src\wrapper.rs:

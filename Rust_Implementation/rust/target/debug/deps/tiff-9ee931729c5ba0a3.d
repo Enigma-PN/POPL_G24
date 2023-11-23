@@ -1,0 +1,11 @@
+E:\CS_BITS\3-1\Principles of Programming Language\Project_final\Rust_Implementation\rust\target\debug\deps\tiff-9ee931729c5ba0a3.rmeta: C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\lib.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\mod.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\ifd.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\stream.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\error.rs
+
+E:\CS_BITS\3-1\Principles of Programming Language\Project_final\Rust_Implementation\rust\target\debug\deps\libtiff-9ee931729c5ba0a3.rlib: C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\lib.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\mod.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\ifd.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\stream.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\error.rs
+
+E:\CS_BITS\3-1\Principles of Programming Language\Project_final\Rust_Implementation\rust\target\debug\deps\tiff-9ee931729c5ba0a3.d: C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\lib.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\mod.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\ifd.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\stream.rs C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\error.rs
+
+C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\lib.rs:
+C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\mod.rs:
+C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\ifd.rs:
+C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\decoder\stream.rs:
+C:\Users\prith\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiff-0.2.2\src\error.rs:

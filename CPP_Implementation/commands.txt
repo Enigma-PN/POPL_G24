@@ -1,0 +1,7 @@
+mkdir build1
+
+g++ -std=c++17 -g -c -o build1/SourceFileName.o src/SourceFileName.cpp
+
+g++ -stf=c++17 -o LSB_Steganography build/*.o
+
+./LSB_Steganography
