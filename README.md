@@ -19,3 +19,5 @@ Navigate into the folder Rust_Implementation/rust_impl and run the following com
 ```
 The output is stored in the results directory.
 
+NOTE: To decrypt an already encoded image, use the encoded image as the input image and leave the message.txt file blank.
+
