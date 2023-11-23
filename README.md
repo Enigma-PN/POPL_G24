@@ -13,7 +13,7 @@ Navigate into the folder CPP_Implementation and run the following commands to co
 
 ## Instructions to run the Rust implementation
 Store the carrier image as "image.png" in the "rust" directory.
-Navigate into the folder Rust_Implementation/rust_impl and run the following command: 
+Navigate into the folder Rust_Implementation/rust and run the following command: 
 
 ```sh
 ❯ cargo run
